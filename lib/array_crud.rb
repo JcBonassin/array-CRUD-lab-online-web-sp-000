@@ -1,5 +1,5 @@
 def create_an_empty_array
- retun []
+ returns []
 end
 
 def create_an_array
